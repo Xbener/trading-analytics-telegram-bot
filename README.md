@@ -1,6 +1,6 @@
 
 # **AI-Driven Crypto Financial Advisor Telegram Bot**
-[📞 Telegram](https://t.me/cryptoking11060)
+[📞 Telegram](https://t.me/xbener95)
 ## **Overview**  
 Welcome to the **AI-Driven Crypto Financial Advisor Telegram Bot**!  
 This cutting-edge bot combines advanced AI capabilities and real-time crypto analysis to provide actionable financial insights directly in Telegram. Powered by GPT and integrated with advanced APIs, the bot boasts a unique personality and offers subscription-based premium features to cater to both novice and seasoned investors.
@@ -135,6 +135,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 ## **Contact**
 For questions or suggestions, feel free to reach out:  
-📧 Email: [devsniper000@example.com](mailto:devsniper@gmail.com)  
+📧 Telegram: https://t.me/xbener95
 
 
